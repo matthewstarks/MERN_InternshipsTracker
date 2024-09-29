@@ -1,0 +1,1 @@
+First MERN fullstack project to solve the problem of needing somewhere to track number of internships and status of internships applied to. Utilized mongoDB to store users' inputs and used Clerk to handle user authorization. 
